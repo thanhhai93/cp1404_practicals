@@ -25,8 +25,8 @@ def get_data():
         parts[2] = int(parts[2])  # Make the number an integer (ignore PyCharm's warning)
         print(parts)  # See if that worked
         print("----------")
-        data.append(parts) # append each sublist "parts" to main list "data"
-    return data # return data list
+    input_file.close()
+
 
 
 def print_subject_details(data):
