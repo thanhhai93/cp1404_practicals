@@ -24,8 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5969c8f-2aa0-491d-94ed-82e4c8952a0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d5969c8f-2aa0-491d-94ed-82e4c8952a0a" name="Default Changelist" comment="answer question">
       <change beforePath="$PROJECT_DIR$/prac4/subject-reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/subject-reader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,8 +129,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596705900232</updated>
-      <workItem from="1596705902044" duration="378000" />
+      <workItem from="1596705902044" duration="708000" />
     </task>
+    <task id="LOCAL-00001" summary="answer question">
+      <created>1596706314142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596706314142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,31 +155,39 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="answer question" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer question" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="554" y="334" key="Github.ShareDialog" timestamp="1596705970678">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="554" y="334" key="Github.ShareDialog/0.0.1368.872@0.0.1368.872" timestamp="1596705970678" />
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1596706233688">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1596706593046">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596706233688" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1596706233688">
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1596706593046">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1596706233688" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1596706233688">
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1596706593046">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1596706233688" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1596706233688">
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1596706593046">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1596706233688" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1596706327467">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1596706327467" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cp1404_prac$list_comprehension.coverage" NAME="list-comprehension Coverage Results" MODIFIED="1596706207803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
     <SUITE FILE_PATH="coverage/cp1404_prac$list_warmup.coverage" NAME="list-warmup Coverage Results" MODIFIED="1596706203312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
-    <SUITE FILE_PATH="coverage/cp1404_prac$subject_reader.coverage" NAME="subject-reader Coverage Results" MODIFIED="1596706233676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
+    <SUITE FILE_PATH="coverage/cp1404_prac$subject_reader.coverage" NAME="subject-reader Coverage Results" MODIFIED="1596706593038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
   </component>
 </project>
