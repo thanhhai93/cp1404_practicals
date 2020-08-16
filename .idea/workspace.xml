@@ -20,12 +20,23 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5969c8f-2aa0-491d-94ed-82e4c8952a0a" name="Default Changelist" comment="answer question">
-      <change beforePath="$PROJECT_DIR$/prac4/subject-reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/subject-reader.py" afterDir="false" />
+    <list default="true" id="52d6195a-a1e9-4eea-a268-12995f6580b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/cp1404_prac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment1/.idea/assignment1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1/travel-tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/travel-tracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac4/list-comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/list-comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac4/list-warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/list-warmup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +47,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="7fb57603-ebfc-4279-a396-5f17c3d4c26d" />
-  <component name="ProjectId" id="1fifakLcEoiKKxLp8uLGAzOQmV5" />
+  <component name="ProjectId" id="1gB3zzXATadm8qztgEywZQjBZzy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,101 +55,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunManager" selected="Python.subject-reader">
-    <configuration name="list-comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cp1404_prac" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac4/list-comprehension.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list-warmup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cp1404_prac" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac4/list-warmup.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="subject-reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cp1404_prac" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac4/subject-reader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.subject-reader" />
-        <item itemvalue="Python.list-comprehension" />
-        <item itemvalue="Python.list-warmup" />
-      </list>
-    </recent_temporary>
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5969c8f-2aa0-491d-94ed-82e4c8952a0a" name="Default Changelist" comment="" />
-      <created>1596705900232</created>
+      <changelist id="52d6195a-a1e9-4eea-a268-12995f6580b9" name="Default Changelist" comment="" />
+      <created>1597574425243</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596705900232</updated>
-      <workItem from="1596705902044" duration="708000" />
+      <updated>1597574425243</updated>
+      <workItem from="1597574426407" duration="2340000" />
     </task>
-    <task id="LOCAL-00001" summary="answer question">
-      <created>1596706314142</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1596706314142</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,40 +89,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="answer question" />
-    <option name="LAST_COMMIT_MESSAGE" value="answer question" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="554" y="334" key="Github.ShareDialog" timestamp="1596705970678">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="554" y="334" key="Github.ShareDialog/0.0.1368.872@0.0.1368.872" timestamp="1596705970678" />
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1596706593046">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
-    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1596706593046">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
-    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1596706593046">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
-    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1596706593046">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1596706593046" />
-    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1596706327467">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1596706327467" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cp1404_prac$list_comprehension.coverage" NAME="list-comprehension Coverage Results" MODIFIED="1596706207803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
-    <SUITE FILE_PATH="coverage/cp1404_prac$list_warmup.coverage" NAME="list-warmup Coverage Results" MODIFIED="1596706203312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
-    <SUITE FILE_PATH="coverage/cp1404_prac$subject_reader.coverage" NAME="subject-reader Coverage Results" MODIFIED="1596706593038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac4" />
   </component>
 </project>

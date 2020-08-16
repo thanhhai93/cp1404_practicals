@@ -11,9 +11,17 @@ to notice is the FILE_LIST in which will store all valuable data from main_menu(
 learnt_function() '''
 import csv
 
+temp= "temp.csv"
+place= "place.csv"
+nullstr = ''
+
 def main():
     print("Travel Tracker 1.0 - by <NGUYEN THANH HAI>")
-    main_menu()
+
+
+
+
+
 
 
 def list_function():
@@ -21,7 +29,7 @@ def list_function():
     count_learnt = 0
 
     list = []
-    for lines in FILE_LIST:
+    for lines in FILE_LIST:place
         count += 1
         new_lines = lines.split(',')
         input_place = new_lines[0]
@@ -29,7 +37,7 @@ def list_function():
         input_priority = new_lines[2]
         learn = new_lines[3].replace("l", "*").replace("u", "").replace("\n", "")
         list.append(count)
-        songs_display = ("{:>2}. {:<1} {:<35} - {:<35} ({})".format(count, learn, input_place, input_country, input_priority))
+         = ("{:>2}. {:<1} {:<35} - {:<35} ({})".format(count, learn, input_place, input_country, input_priority))
         print(place_display)
 
         if "*" in learn:

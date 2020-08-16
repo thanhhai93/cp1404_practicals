@@ -1,16 +1,23 @@
-numbers = [3, 1, 4, 1, 5, 9, 2]
+def main():
+    email_to_name = {}
+    email = input("Email: ")
+    while email != "":
+        name = get_name_from_email(email)
+        confirmation = input("Is your name {}? (Y/n) ".format(name))
+        if confirmation.upper() != "Y" and confirmation != "":
+            name = input("Name: ")
+        email_to_name[email] = name
+        email = input("Email: ")
 
-# numbers[0]
-# numbers[-1]
-# numbers[3]
-# numbers[:-1]
-# numbers[3:4]
-# 5 in numbers
-# 7 in numbers
-# "3" in numbers
-# numbers + [6, 5, 3]
-numbers[0] = 'ten' #replaces the first number '3' with 10.
-numbers[-1] = 1 #replaces the first number '2' with 1.
-print(numbers)
-print(numbers[:5]) #Prints the whole list excluding the last two digits.
-print(9 in numbers)
+    for email, name in email_to_name.items():
+        print("{} ({})".format(name, email))
+
+
+def get_name_from_email(email):
+    prefix = email.split('@')[0]
+    parts = prefix.split('.')
+    name = " ".join(parts).title()
+    return name
+
+
+main()
