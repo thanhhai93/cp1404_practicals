@@ -30,10 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52d6195a-a1e9-4eea-a268-12995f6580b9" name="Default Changelist" comment="prac4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac4/list-comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/list-comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac4/subject-data.txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/subject-data.txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prac4/subject-reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/subject-reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac4/list-comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac4/list_comprehension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +199,7 @@
       <updated>1597574425243</updated>
       <workItem from="1597574426407" duration="3134000" />
       <workItem from="1598506456327" duration="10000" />
-      <workItem from="1598506487276" duration="7570000" />
+      <workItem from="1598506487276" duration="7880000" />
     </task>
     <task id="LOCAL-00001" summary="prac 1">
       <created>1597577464088</created>
@@ -288,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598518925413</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="prac4">
+      <created>1598519074432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598519074432</updated>
+    </task>
+    <task id="LOCAL-00014" summary="prac4">
+      <created>1598519164481</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598519164481</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,30 +328,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="prac4" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1326" height="228" key="GridCell.Tab.0.bottom" timestamp="1598518524929">
+    <state width="1326" height="228" key="GridCell.Tab.0.bottom" timestamp="1598519105009">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598518524929" />
-    <state width="1326" height="228" key="GridCell.Tab.0.center" timestamp="1598518524929">
+    <state width="1326" height="228" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598519105009" />
+    <state width="1326" height="228" key="GridCell.Tab.0.center" timestamp="1598519105009">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598518524929" />
-    <state width="1326" height="228" key="GridCell.Tab.0.left" timestamp="1598518524929">
+    <state width="1326" height="228" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598519105009" />
+    <state width="1326" height="228" key="GridCell.Tab.0.left" timestamp="1598519105009">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598518524929" />
-    <state width="1326" height="228" key="GridCell.Tab.0.right" timestamp="1598518524929">
+    <state width="1326" height="228" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598519105009" />
+    <state width="1326" height="228" key="GridCell.Tab.0.right" timestamp="1598519105009">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598518524929" />
+    <state width="1326" height="228" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598519105009" />
     <state x="436" y="138" key="RollbackChangesDialog" timestamp="1598515559902">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="436" y="138" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1598515559902" />
-    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1598518944535">
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1598519183852">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598518944535" />
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598519183852" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cp1404_prac$guitar.coverage" NAME="guitar Coverage Results" MODIFIED="1598507603561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
