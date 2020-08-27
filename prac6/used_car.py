@@ -18,6 +18,8 @@ def main():
     print("Limo's fuel = ",limo.fuel)
     limo.drive(115)
     print("limo's odometer reading: ", limo.odometer)
+    print(limo)
+
 
 
 

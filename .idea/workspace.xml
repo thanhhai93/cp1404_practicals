@@ -30,13 +30,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52d6195a-a1e9-4eea-a268-12995f6580b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cp1404_prac.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment 1- travel-tracker- thanhhai93/assignment1.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment 1- travel-tracker- thanhhai93/assignment1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1/.idea/assignment1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1/travel-tracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac6/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac6/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac6/used_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac6/used_car.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,29 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.guitars">
+  <component name="RunManager" selected="Python.used_car">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cp1404_prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac6/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guitar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cp1404_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="language" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="used_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cp1404_prac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,29 +172,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac6/language.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="programming_language" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cp1404_prac" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac6/programming_language.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac6/used_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.used_car" />
+        <item itemvalue="Python.car" />
         <item itemvalue="Python.guitars" />
         <item itemvalue="Python.guitar_test" />
         <item itemvalue="Python.guitar" />
-        <item itemvalue="Python.language" />
-        <item itemvalue="Python.programming_language" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +201,7 @@
       <updated>1597574425243</updated>
       <workItem from="1597574426407" duration="3134000" />
       <workItem from="1598506456327" duration="10000" />
-      <workItem from="1598506487276" duration="1669000" />
+      <workItem from="1598506487276" duration="6599000" />
     </task>
     <task id="LOCAL-00001" summary="prac 1">
       <created>1597577464088</created>
@@ -228,7 +224,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598508110836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="cp1404">
+      <created>1598508233574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598508233574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cp1404">
+      <created>1598508390222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598508390222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cp1404">
+      <created>1598508403334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598508403334</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,35 +266,40 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prac 1" />
     <MESSAGE value="prac6" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac6" />
+    <MESSAGE value="cp1404" />
+    <option name="LAST_COMMIT_MESSAGE" value="cp1404" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1326" height="228" key="GridCell.Tab.0.bottom" timestamp="1598507700742">
+    <state width="1326" height="228" key="GridCell.Tab.0.bottom" timestamp="1598517793424">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598507700742" />
-    <state width="1326" height="228" key="GridCell.Tab.0.center" timestamp="1598507700742">
+    <state width="1326" height="228" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1598517793424" />
+    <state width="1326" height="228" key="GridCell.Tab.0.center" timestamp="1598517793423">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598507700742" />
-    <state width="1326" height="228" key="GridCell.Tab.0.left" timestamp="1598507700742">
+    <state width="1326" height="228" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1598517793423" />
+    <state width="1326" height="228" key="GridCell.Tab.0.left" timestamp="1598517793423">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598507700742" />
-    <state width="1326" height="228" key="GridCell.Tab.0.right" timestamp="1598507700742">
+    <state width="1326" height="228" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1598517793423" />
+    <state width="1326" height="228" key="GridCell.Tab.0.right" timestamp="1598517793423">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="228" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598507700742" />
-    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1598508150390">
+    <state width="1326" height="228" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1598517793423" />
+    <state x="436" y="138" key="RollbackChangesDialog" timestamp="1598515559902">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598508150390" />
+    <state x="436" y="138" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1598515559902" />
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1598508250942">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1598508250942" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cp1404_prac$guitar.coverage" NAME="guitar Coverage Results" MODIFIED="1598507603561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
     <SUITE FILE_PATH="coverage/cp1404_prac$programming_languge.coverage" NAME="programming_language Coverage Results" MODIFIED="1598507463926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
-    <SUITE FILE_PATH="coverage/cp1404_prac$used_car.coverage" NAME="used_car Coverage Results" MODIFIED="1598507290815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
-    <SUITE FILE_PATH="coverage/cp1404_prac$car.coverage" NAME="car Coverage Results" MODIFIED="1598506828018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
+    <SUITE FILE_PATH="coverage/cp1404_prac$used_car.coverage" NAME="used_car Coverage Results" MODIFIED="1598517793406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
+    <SUITE FILE_PATH="coverage/cp1404_prac$car.coverage" NAME="car Coverage Results" MODIFIED="1598512360407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
     <SUITE FILE_PATH="coverage/cp1404_prac$language.coverage" NAME="language Coverage Results" MODIFIED="1598507470462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
     <SUITE FILE_PATH="coverage/cp1404_prac$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1598507625448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
     <SUITE FILE_PATH="coverage/cp1404_prac$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1598507700729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac6" />
