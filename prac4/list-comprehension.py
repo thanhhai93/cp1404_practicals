@@ -1,4 +1,3 @@
-
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
 full_names = ["Bob Martin", "Angel Harlem", "Jimi Hendrix", "Alan Turing",
               "Ada Lovelace"]

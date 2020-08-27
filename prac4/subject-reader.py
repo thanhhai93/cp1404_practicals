@@ -7,7 +7,6 @@ def main():
     data = get_data()
     display_subjects(data)
 
-
 def get_data():
     """Read data from file formatted like: subject,lecturer,number of students."""
     data = []
