@@ -1,7 +1,7 @@
 """
 CP1404/CP5632 Practical
 List comprehensions
-Github Link: https://github.com/minhquan0902/CP1404Practical/tree/master/Prac_04
+
 """
 
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
