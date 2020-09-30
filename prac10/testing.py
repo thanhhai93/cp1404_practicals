@@ -40,8 +40,8 @@ def run_tests():
     test_car = Car(fuel=10)
     assert test_car.fuel == 10
 
-    test_car = car()
-    assert test_ca.fuel == 10
+    test_car = Car()
+    assert test_car.fuel == 10
 def phrase_to_sentence(phrase):
 
 
